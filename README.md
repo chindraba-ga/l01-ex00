@@ -1,6 +1,7 @@
 # l01-ex00
 
-- Status: Pending
+-  Status: Pending
+-  Live page: <http://www.chindraba.work/fewd/l01-ex00.html>
 
 ## Contents
 
@@ -10,6 +11,8 @@
 
 ---
 ## Description
+
+### Lesson 1: Partner Exercise: Hypertext Markup Challenge
 
 A 15-minute exercise to recreate a slide using HTML.
 
