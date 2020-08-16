@@ -1,6 +1,6 @@
 # l01-ex00
 
--  Status: Pending
+-  Status: Submitted
 -  CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
 -  Live page: <http://www.chindraba.work/fewd/l01-ex00.html>
 

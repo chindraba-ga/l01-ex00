@@ -1,5 +1,5 @@
 l01-ex00
-* Status: Pending
+* Status: Submitted
 * CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
 * Live page: <http://www.chindraba.work/fewd/l01-ex00.html>
 
@@ -13,7 +13,7 @@ Contents
 Description
 ================================================================================
 
-Lesson 1: Partner Exercise: Hypertext Markup Challenge
+Lesson 1: Partner Exercise: Let's Recreate This Slide in HTML!
 
 A 15-minute exercise to recreate a slide using HTML.
 
