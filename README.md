@@ -2,7 +2,7 @@
 
 -  Status: Final
 -  CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
--  Live page: <http://fewd.chindraba.work/lessons/l01-ex00/project_page.html>
+-  Live page: <http://fewd.chindraba.work/lessons/l01-ex00/index.html>
 
 ## Contents
 
